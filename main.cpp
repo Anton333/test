@@ -4,4 +4,5 @@ int main()
 {
 	std::cout << "test\n";
 	return 0;
+	// bla-bla
 }
